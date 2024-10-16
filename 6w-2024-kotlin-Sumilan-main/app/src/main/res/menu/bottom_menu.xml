@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+
+    <item
+        android:id="@+id/bottom_jouranal"
+        android:icon="@drawable/feathericon"
+        android:title="Journal"
+        android:actionLayout="@layout/fragment_home"/>
+
+    <item
+        android:id="@+id/bottom_insight"
+        android:icon="@drawable/insights"
+        android:title="Insights"
+        android:actionLayout="@layout/fragment_home"/>
+
+</menu>
